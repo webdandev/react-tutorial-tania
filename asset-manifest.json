@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-tutorial-tania/static/css/main.bf286928.chunk.css",
+    "main.js": "/react-tutorial-tania/static/js/main.d95b171b.chunk.js",
+    "main.js.map": "/react-tutorial-tania/static/js/main.d95b171b.chunk.js.map",
+    "runtime~main.js": "/react-tutorial-tania/static/js/runtime~main.262fd8b0.js",
+    "runtime~main.js.map": "/react-tutorial-tania/static/js/runtime~main.262fd8b0.js.map",
+    "static/js/2.282687f7.chunk.js": "/react-tutorial-tania/static/js/2.282687f7.chunk.js",
+    "static/js/2.282687f7.chunk.js.map": "/react-tutorial-tania/static/js/2.282687f7.chunk.js.map",
+    "index.html": "/react-tutorial-tania/index.html",
+    "precache-manifest.9f05d90d160c3f2257c7361c532ba605.js": "/react-tutorial-tania/precache-manifest.9f05d90d160c3f2257c7361c532ba605.js",
+    "service-worker.js": "/react-tutorial-tania/service-worker.js",
+    "static/css/main.bf286928.chunk.css.map": "/react-tutorial-tania/static/css/main.bf286928.chunk.css.map"
+  }
+}
